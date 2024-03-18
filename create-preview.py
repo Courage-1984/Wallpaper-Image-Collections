@@ -13,8 +13,8 @@ def create_md_file(folder_path, md_file_path):
                 )
 
 
-folder_name = "Nordic Wallpapers"
-md_file_name = "nordic-wallpapers-preview.md"
+folder_name = "Black Wallpapers"
+md_file_name = "black_wallpapers-preview.md"
 
 current_directory = os.getcwd()
 folder_path = os.path.join(current_directory, folder_name)
