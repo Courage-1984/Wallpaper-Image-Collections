@@ -3,7 +3,7 @@ import os
 
 def create_md_file(folder_path, md_file_name):
     with open(md_file_name, "w") as md_file:
-        md_file.write("# Wallpapers in /{}\n\n".format(folder_name.replace(" ", "%20")))
+        md_file.write("# Wallpapers in /{}\n\n".format(folder_name))
         for filename in os.listdir(folder_path):
             if filename.endswith((".png", ".jpg", ".jpeg", ".gif")):
                 md_file.write(

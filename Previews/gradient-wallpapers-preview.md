@@ -1,4 +1,4 @@
-# Wallpapers in /Gradient%20Wallpapers
+# Wallpapers in /Gradient Wallpapers
 
 ![](/Gradient%20Wallpapers_Previews/jlpv3gf20c291.png)
 ![](/Gradient%20Wallpapers_Previews/vivid-blurred-colorful%20wallpaper-background.jpg)
